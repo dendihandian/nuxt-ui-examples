@@ -34,5 +34,12 @@ module.exports = {
         })
       }
     }
-  }
+  },
+
+  /*
+  ** Modules
+  */
+  modules: [
+    '@nuxtjs/bulma'
+  ],
 }
